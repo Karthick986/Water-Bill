@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364387429520",
+    "project_id": "water-bill-2e784",
+    "storage_bucket": "water-bill-2e784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364387429520:android:4b9cd288fd6040b7a83c15",
+        "android_client_info": {
+          "package_name": "com.flutterapp.camera_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364387429520-fohkl374csm7ko0cnd8rfr0qt028bd4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKtYPBUxoS5NJCByeu2H1lH1RSrV8mhgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364387429520-fohkl374csm7ko0cnd8rfr0qt028bd4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
